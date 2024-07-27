@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @demalocotech
-- 👀 I’m interested in automated forex trading and web3 development
-- 🌱 I’m currently learning web depelopment using python in visual studio code
-- 💞️ I’m looking to collaborate on automated forex trading and web3 ideas
+- 👀 I’m interested in automated financial markets analysis and android development
+- 🌱 I’m currently learning android depelopment using kotlin and flutter in visual studio code, android studio and Intellivj
+- 💞️ I’m looking to collaborate on android development, financial data analysis ideas
 - 📫 How to reach me ... reach me via mail collinsndiras01@gmail.com
 
 <!---
